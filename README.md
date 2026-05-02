@@ -18,4 +18,4 @@ This project analyzes Netflix movie data to extract meaningful insights and tren
 ## 📈 Outcome
 Provided data-driven insights to support decision-making in content strategy.
 
-![image alt](https://github.com/MKCHLakvindi/HR-Analytics-Dashboard-PowerBI/blob/39719ef6beacdec72c3590d7e9ec994a8c419118/.PNG)
+![image alt](https://github.com/MKCHLakvindi/netflix-movie-data-analysis/blob/main/Results/The%20most%20frequent%20genre.PNG)
