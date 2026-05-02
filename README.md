@@ -21,3 +21,5 @@ Provided data-driven insights to support decision-making in content strategy.
 ![image alt](https://github.com/MKCHLakvindi/netflix-movie-data-analysis/blob/main/Results/The%20most%20frequent%20genre.PNG)
 
 ![image alt](https://github.com/MKCHLakvindi/netflix-movie-data-analysis/blob/main/Results/Genres%20with%20the%20highest%20number%20of%20votes.PNG)
+
+![image alt](https://github.com/MKCHLakvindi/netflix-movie-data-analysis/blob/main/Results/The%20most%20popular%20movie%20and%20its%20genre.PNG)
